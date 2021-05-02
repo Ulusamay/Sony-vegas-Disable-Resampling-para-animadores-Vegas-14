@@ -1,2 +1,1 @@
-# Sony-vegas-Disable-Resampling-para-animadores-Vegas-14
-Disable Resampling Atualizado para Animadores vegas versão 14 pra cima.
+# Disable Resampling Atualizado para Animadores vegas versão 14 pra cima, para instalar colem, na pasta Script Menu de seu Sony vegas
